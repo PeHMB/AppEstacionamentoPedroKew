@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Fromularios\" />
     <Folder Include="Regras de desacordo\" />
   </ItemGroup>
 
